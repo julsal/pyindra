@@ -6,3 +6,10 @@ Indra is an efficient library and service to deliver word-embeddings and semanti
 Indra is powered by [spotify-annoy](https://github.com/spotify/annoy) delivering an efficient [approximate nearest neighbors](http://en.wikipedia.org/wiki/Nearest_neighbor_search#Approximate_nearest_neighbor) function.
 
 Indra server is available with MIT License in [this repository](https://github.com/Lambda-3/Indra).
+
+to install the client, via **pip**:
+
+```
+pip install pyindra
+```
+
